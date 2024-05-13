@@ -1,15 +1,15 @@
-# Pose Detection with CVZONE
+# Pose Detection using CV Zone Python
 
 ## Introduction
 
-3D pose estimation is a process of predicting the transformation of an object from a user-defined reference pose, given an image or a 3D scan. It arises in computer vision or robotics where the pose or transformation of an object can be used for alignment of a Computer-Aided Design models, identification, grasping, or manipulation of the object.ns.
+3D pose estimation is a process of predicting the transformation of an object from a user-defined reference pose, given an image or a 3D scan. It arises in computer vision or robotics where the pose or transformation of an object can be used for alignment of Computer-Aided Design models, identification, grasping, or manipulation of the object.
 
 ![](github-readme-content/image-1.png)
 
 
 ## Features
 - Detect pose of a human body.
-- Calculate distance in key point.
+- Calculate the distance between the hand's key points.
 
 
 ## Technologies & Frameworks
