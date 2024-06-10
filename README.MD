@@ -1,4 +1,4 @@
-# POSE DETECTION USING CV ZONE PYTHON
+# Pose Detection Using CvZone Python
 
 ## Introduction
 
@@ -55,7 +55,7 @@ Python is the main programming language of this prototype, OpenCV and CVzone are
 
 ![](github-readme-content/demo.gif)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
